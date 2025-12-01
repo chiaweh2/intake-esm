@@ -2,6 +2,7 @@
     requires = ["setuptools>=75.0", "setuptools_scm>=8.1", "wheel"]
 
 [project]
+    version = "2025.12.1"
     classifiers = [
         "Development Status :: 4 - Beta",
         "Intended Audience :: Science/Research",
