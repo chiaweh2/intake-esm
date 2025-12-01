@@ -11,4 +11,4 @@ from intake_esm.core import esm_datastore
 from intake_esm.derived import DerivedVariableRegistry, default_registry
 from intake_esm.utils import set_options, show_versions
 
-from intake_esm._version import __version__
+# from intake_esm._version import __version__
