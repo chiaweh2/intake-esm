@@ -2,6 +2,7 @@
     requires = ["setuptools>=75.0", "setuptools_scm>=8.1", "wheel"]
 
 [project]
+    version = "v2025.12.999"
     classifiers = [
         "Development Status :: 4 - Beta",
         "Intended Audience :: Science/Research",
@@ -23,7 +24,7 @@
     readme = "README.md"
     requires-python = ">=3.10"
 
-    dynamic = ["dependencies", "version"]
+    dynamic = ["dependencies"]
 
 [tool.setuptools.dynamic]
 
